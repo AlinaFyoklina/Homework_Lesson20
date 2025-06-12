@@ -1,0 +1,39 @@
+header {color: cornflowerblue;
+text-align: center;
+border: 2px solid;
+border-color: antiquewhite;
+margin: 10px 20px;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+header:hover {
+  text-shadow: 0 0 10px cornflowerblue;
+}
+
+
+section{
+    padding: 20px;
+    background-color: cornflowerblue;
+    margin: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+section:hover {
+    text-shadow: 0 0 10px antiquewhite;
+}
+
+h2 {
+    color: antiquewhite;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer{
+  text-align: center;
+    transition: text-shadow 0.3s ease;
+}
+
+
+
